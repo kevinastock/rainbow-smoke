@@ -1,0 +1,13 @@
+[package]
+name = "allrgb"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+oklab = "1.0.1"
+kiddo = "2.1.2"
+image = "0.24.7"
+rand = "0.8.5"
+toodee = "0.5.0"
